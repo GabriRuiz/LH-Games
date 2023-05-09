@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Promoçõe",
+      "descricao": "Confira essa Promoção",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Arcade",
+      "descricao": "O melhore game de Arcade e aventura",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Lançamento",
+      "descricao": "Descrição do jogo 3",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    }
+  ]
+}
